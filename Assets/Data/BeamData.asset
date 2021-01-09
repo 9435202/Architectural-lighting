@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5750972d10825a34aada7308efdca135, type: 3}
+  m_Name: BeamData
+  m_EditorClassIdentifier: Assembly-CSharp::AssetsScripts
+  i: 0
+  ui_start: {fileID: 453472712577620838, guid: 78d4fef40d9332b4abcc18fc1eeced33, type: 3}
+  line_material: {fileID: 2100000, guid: 97f3e6659b8f2584bb20d38f1dcaa14c, type: 2}
